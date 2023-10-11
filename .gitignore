@@ -25,7 +25,7 @@ hs_err_pid*
 replay_pid*
 
 # Ignore the README.md file
-#README.md
+README.md
 
 # You can add other patterns to ignore additional files or directories if needed.
 
