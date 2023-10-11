@@ -1,3 +1,6 @@
 hello
 namaste
+<<<<<<< HEAD
 chalo
+=======
+>>>>>>> 3e07da0607050deafedc89d565ab3ede1e1b22a7
